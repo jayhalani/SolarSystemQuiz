@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Solar System Quiz</string>
+
+    <string name="question_1">What are the terrestrial planets?</string>
+    <string name="question_2">What are the Jovian or gas planets?</string>
+    <string name="question_3">Terrestrial planets are__________________.</string>
+    <string name="question_4">True or False; all Jovian or gas planets have rings.</string>
+    <string name="question_5">Planet X is a small, terrestrial planet that has one moon, liquid water, and a thin atmosphere. What is planet X?</string>
+    <string name="question_6">What is the largest body in the solar system?</string>
+    <string name="question_7">What is the order of the planets from the sun?</string>
+    <string name="question_8">What is the force that keeps all the planets in orbit around the sun?</string>
+    <string name="question_9">Which of the following are planets?</string>
+    <string name="question_10">What separates the terrestrial planets from the Jovian or gas planets in space?</string>
+
+    <string name="answer_1_1">Jupiter, Saturn, Neptune, Uranus</string>
+    <string name="answer_1_2">Earth, Jupiter, and Pluto</string>
+    <string name="answer_1_3">Mercury, Venus, Earth, Mars</string>
+    <string name="answer_1_4">Pluto, Comets, Asteroids, Meteors</string>
+
+    <string name="answer_2_1">Jupiter, Saturn, Uranus, Neptune</string>
+    <string name="answer_2_2">Jupiter, Saturn, Uranus, Neptune, Pluto</string>
+    <string name="answer_2_3">Earth, Mars Jupiter, Saturn, Neptune, Uranus, Pluto</string>
+    <string name="answer_2_4">Mercury, Venus, Earth, Mars</string>
+
+    <string name="answer_3_1">Rocky</string>
+    <string name="answer_3_2">Close to the sun</string>
+    <string name="answer_3_3">Small</string>
+    <string name="answer_3_4">All of the above</string>
+
+    <string name="answer_4_1">True</string>
+    <string name="answer_4_2">False</string>
+
+    <string name="answer_5_1">Mercury</string>
+    <string name="answer_5_2">Jupiter</string>
+    <string name="answer_5_3">Mars</string>
+    <string name="answer_5_4">Earth</string>
+
+    <string name="answer_6_1">Jupiter</string>
+    <string name="answer_6_2">Earth</string>
+    <string name="answer_6_3">Saturn</string>
+    <string name="answer_6_4">Sun</string>
+
+    <string name="answer_7_1">Mercury, Venus, Mars,
+Earth, Jupiter, Saturn, Neptune, Uranus</string>
+    <string name="answer_7_2">Mercury, Venus, Earth,
+Mars, Jupiter, Saturn, Neptune, Uranus</string>
+    <string name="answer_7_3">Mercury, Venus, Earth,
+Mars, Jupiter, Saturn, Uranus, Neptune</string>
+    <string name="answer_7_4">Mercury, Venus, Earth,
+Mars, Jupiter, Saturn, Uranus, Neptune, Pluto</string>
+
+    <string name="answer_9_1">Earth</string>
+    <string name="answer_9_2">Jupiter</string>
+    <string name="answer_9_3">Phobos</string>
+    <string name="answer_9_4">Deimos</string>
+
+
+    <string name="answer_10_1">Nothing</string>
+    <string name="answer_10_2">Mars</string>
+    <string name="answer_10_3">Comets</string>
+    <string name="answer_10_4">The Asteroid Belt</string>
+
+    <string name="number_one">1.</string>
+    <string name="number_two">2.</string>
+    <string name="number_three">3.</string>
+    <string name="number_four">4.</string>
+    <string name="number_five">5.</string>
+    <string name="number_six">6.</string>
+    <string name="number_seven">7.</string>
+    <string name="number_eight">8.</string>
+    <string name="number_nine">9.</string>
+    <string name="number_ten">10.</string>
+
+</resources>
